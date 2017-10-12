@@ -1,4 +1,4 @@
-## Welcome to _**~Baddi~**_'s Site 
+## Welcome to _**Baddi**_'s Site 
 
 ### Hello World
 
